@@ -10,8 +10,6 @@ public class Player : MonoBehaviour
     {
         
     }
-
-    public Transform TargetAim
     float speed = 3f;
     
     // Update is called once per frame
