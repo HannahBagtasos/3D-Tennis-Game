@@ -1,12 +1,12 @@
 # 3D-Tennis
-3D Tennis by Fola Ojewale, Hannah Bagtasos Ozioma Amaeze
+3D Tennis by Fola Ojewale, Hannah Bagtasos
 Log Journal:
 https://docs.google.com/document/d/1Ft3j2nPesH6m4GGzhMUr7Xkl2MuxnkkX3G1nReCu21I/edit#
 
 Contributors:
  https://github.com/HannahBagtasos ,
  https://github.com/folaojewale ,
- https://github.com/Omanoma
+
 
 
 3D Tennis Game:
