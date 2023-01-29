@@ -1,4 +1,7 @@
 # 3D-Tennis
+Tennis game made in Unity
+
+
 3D Tennis by Fola Ojewale, Hannah Bagtasos
 Log Journal:
 https://docs.google.com/document/d/1Ft3j2nPesH6m4GGzhMUr7Xkl2MuxnkkX3G1nReCu21I/edit#
